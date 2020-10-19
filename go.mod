@@ -1,9 +1,8 @@
-module chat-grpc-basic
+module github.com/d3z41k/chat-grpc-basic
 
 go 1.14
 
 require (
-	github.com/golang/protobuf v1.2.0
-	golang.org/x/net v0.0.0-20190213061140-3a22650c66bd
-	google.golang.org/grpc v1.18.0
+	github.com/golang/protobuf v1.4.3
+	google.golang.org/grpc v1.33.0
 )
