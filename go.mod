@@ -1,4 +1,4 @@
-module docker_example
+module chat-grpc-basic
 
 go 1.14
 
